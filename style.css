@@ -1,0 +1,21 @@
+*{
+    text-align: center;
+    align-content: center;
+    background-color: darkkhaki;
+}
+
+#display{
+    display: flex;
+    justify-content: center;
+    width: 450px;
+    margin: auto;
+    padding: 29px 0;
+}
+
+#days, #hours, #minutes, #seconds{
+    width: 40%;
+    padding: 0 24px;
+    font-family: Arial, sans-serif;
+    font-size: 40px;
+}
+
